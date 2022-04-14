@@ -1,1 +1,1 @@
-Conflict Resolved
+feature 2
